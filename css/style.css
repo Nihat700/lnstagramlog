@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+
+}
+
+.right{
+    margin: 100px;
+    margin-right: 200px;
+    width: 350px;
+    height: 500px;
+    float: right;
+    text-align: center;
+
+}
+.danger{
+    border: 1px solid black;
+    padding-top: 100px;
+
+
+}
+
+
+.left{
+    float: left;
+    width: 50%;
+    height: 100vh;
+    text-align: center;
+}
+.right h1{
+    margin-bottom: 30px;
+    font-style: italic;
+    color: rgb(9, 8, 8);
+   font-size: xx-large;
+}
+.yen{
+    margin-bottom: 6px;
+}
+.right input{
+    width: 250px;
+    height: 30px;
+   border-radius: 5px 5px 5px 5px;
+   margin-bottom: 6px;
+}
+.right button{
+    width: 250px;
+    height: 30px;
+    border-radius: 7px;  
+}
+#but{
+    background-color: deepskyblue;
+    margin: 10px;
+}
+.fcb h1{
+    font-style: normal;
+    font-size: medium;
+    color: dodgerblue;
+}
+.psw{
+    font-size: small;
+}
+.dexd{
+    color: black;
+}
+.dont{font-style: normal;
+    font-size: small;
+    margin: 25px;
+    
+}
+.dont a{
+    color: blue;
+    font-size: large;
+}
+.dont a{
+    text-decoration: none;
+}
+.fcb a{
+    text-decoration: none;
+}
+.psw a{
+    text-decoration: none;
+}
+
+.akula{
+    border: 1px solid black;
+    margin: 5px 0;
+}
